@@ -1,14 +1,37 @@
-# Shipper-Legendary ( KTStudio )
-# Chào mừng đến với mã  nguồn của tựa game  Shiper Legendary
+# Shipper-Legendary (KTStudio)
 
-# Lời nói đầu 
-đây là dự án làm bởi một người , dự án lấy bối cảnh ở việt nam , bạn sẽ vào vai một nhân viên chạy ship  sau khi chia tay người yêu vì bị chê nghèo nên bạn quyết định kiếm 200tr trong vòng 3 tháng 
+## 👋 Chào mừng đến với mã nguồn của tựa game **Shipper Legendary**
 
+---
 
-# Sence Game 
-- **Workspace**: tất cả mọi thứ trong đây đều sẽ hiển thị trong game  
-- **StarterGui**: quản lí tất cả UI của game  
-- **Player Server**: quản lí người chơi (thuộc tính: tiền, kho đồ...)  
-- **ReplicatedStorage**: lưu trữ đồ vật sẽ sử dụng cho sau này  
-- **ServerScriptService**: quản lí code đến server -> client và ngược lại  
-- **Lighting**: quản lí ánh sáng  
+## 📝 Lời nói đầu
+
+Đây là dự án được làm bởi **một người duy nhất**.  
+Dự án lấy bối cảnh tại **Việt Nam**, bạn sẽ vào vai một **nhân viên giao hàng** (shipper).  
+Sau khi chia tay người yêu vì bị chê nghèo, bạn quyết tâm **kiếm 200 triệu trong vòng 3 tháng**.
+
+---
+
+## 🗺️ Scene Game
+
+- **Workspace**:  
+  Tất cả mọi thứ trong đây đều sẽ hiển thị trong game.
+
+- **StarterGui**:  
+  Quản lý tất cả UI (giao diện) của game.
+
+- **Player Server**:  
+  Quản lý người chơi (thuộc tính như: tiền, kho đồ, v.v.).
+
+- **ReplicatedStorage**:  
+  Lưu trữ các đối tượng sẽ được sử dụng sau này.
+
+- **ServerScriptService**:  
+  Quản lý mã lệnh phía server → client và ngược lại.
+
+- **Lighting**:  
+  Quản lý ánh sáng trong game.
+
+---
+
+🎮 Chúc bạn chơi game vui vẻ và tận hưởng hành trình trở thành **huyền thoại shipper**!
