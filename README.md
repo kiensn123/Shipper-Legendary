@@ -6,9 +6,9 @@
 
 
 # Sence Game 
-________Workspace : tất cả mọi thứ trong đây đều sẽ hiển thị trong game 
-________StarterGui : quản lí tất cả  UI của game 
-________Player Server : quản lí người chơi ( thuộc tính: tiền , kho đồ ...)
-________ReplicatedStorage : lưu trữ đồ vật sẽ sử dụng cho sau này 
-________ServerScriptService : quản lí code đến sever -> citlen và ngược lại 
-________Lighting : quản lí ảnh sáng 
+- **Workspace**: tất cả mọi thứ trong đây đều sẽ hiển thị trong game  
+- **StarterGui**: quản lí tất cả UI của game  
+- **Player Server**: quản lí người chơi (thuộc tính: tiền, kho đồ...)  
+- **ReplicatedStorage**: lưu trữ đồ vật sẽ sử dụng cho sau này  
+- **ServerScriptService**: quản lí code đến server -> client và ngược lại  
+- **Lighting**: quản lí ánh sáng  
